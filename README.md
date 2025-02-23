@@ -8,3 +8,5 @@ The UI is clean and responsive, making it easy to use on both desktop and mobile
 ✅ Includes uppercase, lowercase, numbers, and special characters
 ✅ Copy password to clipboard with one click
 ✅ Responsive design for mobile and desktop
+
+▶️Live Demo: https://ferdawsanzer.github.io/Password-Generator/
